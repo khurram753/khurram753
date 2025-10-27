@@ -17,22 +17,24 @@
 ### 🧠 About Me
 
 ```js
-const hassan = {
-  pronouns: "He" | "Him",
+const khurram = {
   code: [
-    "JavaScript", "TypeScript", "PHP", "Python", "C++"
+    "JavaScript", "TypeScript", "PHP", "Laravel", "Node", "Next JS", "React JS", "Vue JS", "Wordpress", "Nuxt.js"
   ],
   askMeAbout: [
     "Web Development", "APIs", "System Architecture", "App Development"
   ],
   technologies: {
     backEnd: {
-      js: ["Node.js", "Express.js", "NestJS"],
+      js: ["Node.js", "Express.js"],
       php: ["Laravel", "CodeIgniter"]
     },
     frontEnd: {
       js: ["React", "Next.js", "Vue", "Nuxt.js"]
     },
+    cms:{
+      wordpress
+    }
     devOps: [
       "Docker", "Nginx", "GitHub Actions", "AWS"
     ],
