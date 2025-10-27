@@ -15,7 +15,7 @@
 ---
 
 ### 🧠 About Me
-```js
+js
 const hassan = {
   pronouns: "He" | "Him",
   code: ["JavaScript", "TypeScript", "PHP", "Python", "C++"],
