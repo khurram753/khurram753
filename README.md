@@ -8,6 +8,13 @@
   💡 Full Stack Developer | 🚀 Passionate about Web, AI & Blockchain Technologies
 </h3>
 
+<p align="center">
+  <a href="https://github.com/khurramIlyas"><img src="https://img.shields.io/github/followers/khurramIlyas?label=Followers&style=social"></a>
+  <a href="https://github.com/khurramIlyas?tab=stars"><img src="https://img.shields.io/github/stars/khurramIlyas?label=Stars&style=social"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
+</p>
+
 ---
 
 <p align="center">
@@ -16,19 +23,56 @@
 
 ---
 
+<!-- ABOUT ME SECTION -->
+<h2 align="center">👨‍💻 About Me</h2>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300">
+  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" height="240">
+</p>
+
+- 🔭 Currently working on **Full Stack Web, AI & Blockchain projects**  
+- 🌱 Learning **Microservices, Web3 tools, and AI integrations**  
+- 💬 Ask me about **Laravel, Node.js, Vue, React, Next.js, Web3, and API Architecture**  
+- 🎯 Goal: To build **scalable and efficient digital ecosystems**  
+- ⚡ Fun fact: I debug faster when music is playing 🎧  
+
+---
+
+<!-- TECHNOLOGIES SECTION -->
+<h2 align="center">⚡ Technologies & Tools I Work With ⚡</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,bootstrap,tailwind,sass,php,laravel,nodejs,express,nestjs,mysql,postgres,mongodb,redis,wordpress,solidity,web3,ipfs,python,git,github,docker,nginx,aws,linux,vscode,figma,postman&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="600" height="250">
 </p>
 
 ---
 
-### 🌟 About Me
+<h2 align="center">📊 GitHub Stats</h2>
 
-- 🔭 Currently working on **Full Stack Web & Blockchain projects**  
-- 🌱 Learning **AI Integration, Microservices, and Web3 tools**  
-- 💬 Ask me about **Laravel, Node.js, Vue, React, Next.js, and Web3**  
-- 🎯 Goal: **To build scalable, secure, and creative digital solutions**  
-- ⚡ Fun fact: I debug faster when music is playing 🎧  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=khurramIlyas&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khurramIlyas&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khurramIlyas&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<h2 align="center">🚀 Let's Connect</h2>
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+</p>
 
 ---
 
