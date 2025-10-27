@@ -8,13 +8,6 @@
   💡 Full Stack Developer | 🚀 Passionate about Web, AI & Blockchain Technologies
 </h3>
 
-<p align="center">
-  <a href="https://github.com/khurramIlyas"><img src="https://img.shields.io/github/followers/khurramIlyas?label=Followers&style=social"></a>
-  <a href="https://github.com/khurramIlyas?tab=stars"><img src="https://img.shields.io/github/stars/khurramIlyas?label=Stars&style=social"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-</p>
-
 ---
 
 <p align="center">
