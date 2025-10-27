@@ -7,7 +7,7 @@
 <h3 align="center">Full Stack Developer | Passionate about Web Technologies 🚀</h3>
 
 <p align="center">
-  <a href="https://github.com/Hassan663">
+  <a href="https://github.com/khurram753">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+Node.js+%7C+React+%7C+Next.js;Clean+Code+%26+Modern+Architecture;Always+Learning+New+Things">
   </a>
 </p>
