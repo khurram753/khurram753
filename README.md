@@ -44,11 +44,18 @@
 <h2 align="center">⚡ Technologies & Tools I Work With ⚡</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,bootstrap,tailwind,sass,php,laravel,nodejs,express,nestjs,mysql,postgres,mongodb,redis,wordpress,solidity,web3,ipfs,git,github,docker,nginx,aws,linux,vscode,figma,postman&perline=10" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,react,nextjs,vue,nuxtjs,js,bootstrap,tailwind,wordpress,github,docker,aws,sass,linux,figma,postman,swagger,postgresql,mongodb&perline=10" />
 </p>
 
 ---
 
+<p align="center">
+  💻 I love building modern, performant, and scalable web applications using the perfect blend of  
+  <strong>Laravel</strong>, <strong>Node.js</strong>, <strong>React.js</strong>, and <strong>Vue.js</strong> —  
+  backed by powerful tools like <strong>Docker</strong>, <strong>AWS</strong>, and <strong>PostgreSQL</strong>. 🚀
+</p>
+
+---
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
