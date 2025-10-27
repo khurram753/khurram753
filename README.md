@@ -53,21 +53,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=khurram753&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khurram753&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khurram753&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
----
-
-<h2 align="center">🚀 Let's Connect</h2>
-
-<p align="center">
-  <a href="mailto:mkhurramilyas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/khurram-ilyas-1074ab138/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white"></a>
-</p>
 
 ---
