@@ -1,130 +1,41 @@
-<!-- PROFILE HEADER -->
+<!-- INTRO SECTION -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-  I'm Muhammad Khurram Ilyas
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" height="35">
+  I'm <span style="color:#00C4FF;">Muhammad Khurram Ilyas</span> 👨‍💻
 </h1>
 
-<h3 align="center">Full Stack Developer | Passionate about Web Technologies 🚀</h3>
+<h3 align="center">
+  💡 Full Stack Developer | 🚀 Passionate about Web, AI & Blockchain Technologies
+</h3>
 
 <p align="center">
-  <a href="https://github.com/khurram753">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+Node.js+%7C+React+%7C+Next.js;Clean+Code+%26+Modern+Architecture;Always+Learning+New+Things">
-  </a>
+  <a href="https://github.com/khurramIlyas"><img src="https://img.shields.io/github/followers/khurramIlyas?label=Followers&style=social"></a>
+  <a href="https://github.com/khurramIlyas?tab=stars"><img src="https://img.shields.io/github/stars/khurramIlyas?label=Stars&style=social"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
 </p>
 
 ---
 
-### 🧠 About Me
-
-```js
-const khurram = {
-  code: [
-    "JavaScript", "TypeScript", "PHP", "Laravel", "Node", "Next JS", "React JS", "Vue JS", "Wordpress", "Nuxt.js"
-  ],
-  askMeAbout: [
-    "Web Development", "APIs", "System Architecture", "App Development"
-  ],
-  technologies: {
-    backEnd: {
-      js: ["Node.js", "Express.js"],
-      php: ["Laravel", "CodeIgniter"]
-    },
-    frontEnd: {
-      js: ["React", "Next.js", "Vue", "Nuxt.js"]
-    },
-    cms:{
-      wordpress
-    }
-    devOps: [
-      "Docker", "Nginx", "GitHub Actions", "AWS"
-    ],
-    databases: [
-      "MySQL", "MongoDB", "PostgreSQL"
-    ],
-    mobileApp: [
-      "React Native", "Flutter"
-    ],
-    misc: [
-      "Socket.IO", "GraphQL", "REST API", "JWT", "Stripe", "Firebase"
-    ]
-  },
-  architecture: [
-    "Microservices", "Event Driven", "MVC", "Serverless"
-  ],
-  currentFocus: "Building scalable full-stack applications 🚀",
-  funFact: "I debug faster when music is playing 🎧"
-};
-
-<!-- TECHNICAL MASTERY SECTION -->
-<h2 align="center">⚡ TECHNOLOGICAL MASTERY ⚡</h2>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=🎯+Frontend+Excellence;⚙️+Backend+Mastery;🔗+Blockchain+%26+Web3;🤖+AI+%26+Automation+Arsenal;📱+Mobile+Innovation;☁️+Cloud+%26+DevOps">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00C4FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;MERN+%7C+Laravel+%7C+Next.js;Blockchain+%26+Web3+Enthusiast;AI+%26+Automation+Lover;Open+Source+Contributor" />
 </p>
 
 ---
 
-### 🎯 FRONTEND EXCELLENCE
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,tailwind,bootstrap,sass,webpack,vite&perline=8" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300">
 </p>
-
-> Expertise in crafting responsive, interactive, and high-performance UIs using **React, Next.js, Vue.js**, and **Tailwind CSS**.  
-> Passionate about pixel-perfect design and seamless user experiences.
 
 ---
 
-### ⚙️ BACKEND MASTERY
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,graphql,nginx,mysql,postgres,mongodb,redis&perline=8" />
-</p>
+### 🌟 About Me
 
-> Strong in building robust, scalable backend systems with **Node.js, Express, NestJS**, and **Laravel**.  
-> Follows clean architecture, API versioning, and security best practices.
-
----
-
-### 🔗 BLOCKCHAIN & WEB3
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,ethereum,web3,metamask,ipfs,polygon,bsc&perline=8" />
-</p>
-
-> Hands-on experience in **smart contracts**, **DApp development**, and **crypto wallet integrations (MetaMask, WalletConnect)**.  
-> Passionate about decentralized ecosystems and on-chain applications.
+- 🔭 Currently working on **Full Stack Web & Blockchain projects**  
+- 🌱 Learning **AI Integration, Microservices, and Web3 tools**  
+- 💬 Ask me about **Laravel, Node.js, Vue, React, Next.js, and Web3**  
+- 🎯 Goal: **To build scalable, secure, and creative digital solutions**  
+- ⚡ Fun fact: I debug faster when music is playing 🎧  
 
 ---
-
-### 🤖 AI & AUTOMATION ARSENAL
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,selenium,fastapi&perline=8" />
-</p>
-
-> Implementing automation and AI-driven workflows using **Python, TensorFlow**, and **OpenCV**.  
-> Enthusiastic about data-driven solutions and AI-powered creativity.
-
----
-
-### 📱 MOBILE INNOVATION
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=reactnative,flutter,androidstudio,xcode,firebase&perline=8" />
-</p>
-
-> Building cross-platform mobile apps with **React Native** and **Flutter**.  
-> Ensuring smooth UX and high performance on both Android and iOS.
-
----
-
-### ☁️ CLOUD & DEVOPS
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,jenkins,linux&perline=8" />
-</p>
-
-> Proficient in **AWS, Docker, CI/CD, and container orchestration**.  
-> Focused on reliability, scalability, and deployment automation.
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan663&theme=react-dark&hide_border=true&area=true" />
-</p>
 
