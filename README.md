@@ -27,14 +27,16 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" height="240">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="80" height="80">
 </p>
 
-- 🔭 Currently working on **Full Stack Web, AI & Blockchain projects**  
-- 🌱 Learning **Microservices, Web3 tools, and AI integrations**  
-- 💬 Ask me about **Laravel, Node.js, Vue, React, Next.js, Web3, and API Architecture**  
-- 🎯 Goal: To build **scalable and efficient digital ecosystems**  
-- ⚡ Fun fact: I debug faster when music is playing 🎧  
+<p align="center">
+  🔭 Currently working on <b>Full Stack Web, AI & Blockchain projects</b><br>
+  🌱 Learning <b>Microservices, Web3 tools, and AI integrations</b><br>
+  💬 Ask me about <b>Laravel, Node.js, Vue, React, Next.js, Web3, and API Architecture</b><br>
+  🎯 Goal: To build <b>scalable and efficient digital ecosystems</b><br>
+  ⚡ Fun fact: I debug faster when music is playing 🎧  
+</p>
 
 ---
 
@@ -42,11 +44,7 @@
 <h2 align="center">⚡ Technologies & Tools I Work With ⚡</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,bootstrap,tailwind,sass,php,laravel,nodejs,express,nestjs,mysql,postgres,mongodb,redis,wordpress,solidity,web3,ipfs,python,git,github,docker,nginx,aws,linux,vscode,figma,postman&perline=10" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="600" height="250">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,bootstrap,tailwind,sass,php,laravel,nodejs,express,nestjs,mysql,postgres,mongodb,redis,wordpress,solidity,web3,ipfs,git,github,docker,nginx,aws,linux,vscode,figma,postman&perline=10" />
 </p>
 
 ---
@@ -75,4 +73,3 @@
 </p>
 
 ---
-
