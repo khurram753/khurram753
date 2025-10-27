@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Muhammad Hassan Nawaz</h1>
+<h3 align="center">Full Stack Developer | Passionate about Web Technologies</h3>
 
-<!--
-**khurram753/khurram753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+js
+const hassan = {
+    pronouns: "He" | "Him",
+    code: ["JavaScript", "TypeScript", "PHP", "Python", "C++"],
+    askMeAbout: ["web dev", "tech", "app dev", "design patterns"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express", "NestJS"],
+            php: ["Laravel", "CodeIgniter"]
+        },
+        frontEnd: {
+            js: ["React", "Next.js", "Vue", "Nuxt.js"]
+        },
+        devOps: ["Docker", "Nginx", "GitHub Actions", "AWS"],
+        databases: ["MySQL", "MongoDB", "PostgreSQL"],
+        mobileApp: ["React Native", "Flutter"],
+        misc: ["Socket.IO", "GraphQL", "REST API", "JWT", "Stripe", "Firebase"]
+    },
+    architecture: ["Microservices", "Event Driven", "MVC", "Serverless"],
+    currentFocus: "Building scalable web applications",
+    funFact: "I love debugging more than coding 😅"
+};
