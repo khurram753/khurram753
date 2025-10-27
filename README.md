@@ -48,14 +48,6 @@
 </p>
 
 ---
-
-<p align="center">
-  💻 I love building modern, performant, and scalable web applications using the perfect blend of  
-  <strong>Laravel</strong>, <strong>Node.js</strong>, <strong>React.js</strong>, and <strong>Vue.js</strong> —  
-  backed by powerful tools like <strong>Docker</strong>, <strong>AWS</strong>, and <strong>PostgreSQL</strong>. 🚀
-</p>
-
----
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
