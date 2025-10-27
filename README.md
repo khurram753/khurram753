@@ -1,7 +1,7 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-  I'm Muhammad Hassan Nawaz
+  I'm Muhammad Khurram Ilyas
 </h1>
 
 <h3 align="center">Full Stack Developer | Passionate about Web Technologies 🚀</h3>
@@ -15,26 +15,40 @@
 ---
 
 ### 🧠 About Me
-```js
 
+```js
 const hassan = {
   pronouns: "He" | "Him",
-  code: ["JavaScript", "TypeScript", "PHP", "Python", "C++"],
-  askMeAbout: ["Web Development", "APIs", "System Architecture", "App Dev"],
+  code: [
+    "JavaScript", "TypeScript", "PHP", "Python", "C++"
+  ],
+  askMeAbout: [
+    "Web Development", "APIs", "System Architecture", "App Development"
+  ],
   technologies: {
     backEnd: {
-      js: ["Node", "Express", "NestJS"],
+      js: ["Node.js", "Express.js", "NestJS"],
       php: ["Laravel", "CodeIgniter"]
     },
     frontEnd: {
       js: ["React", "Next.js", "Vue", "Nuxt.js"]
     },
-    devOps: ["Docker", "Nginx", "GitHub Actions", "AWS"],
-    databases: ["MySQL", "MongoDB", "PostgreSQL"],
-    mobileApp: ["React Native", "Flutter"],
-    misc: ["Socket.IO", "GraphQL", "REST API", "JWT", "Stripe", "Firebase"]
+    devOps: [
+      "Docker", "Nginx", "GitHub Actions", "AWS"
+    ],
+    databases: [
+      "MySQL", "MongoDB", "PostgreSQL"
+    ],
+    mobileApp: [
+      "React Native", "Flutter"
+    ],
+    misc: [
+      "Socket.IO", "GraphQL", "REST API", "JWT", "Stripe", "Firebase"
+    ]
   },
-  architecture: ["Microservices", "Event Driven", "MVC", "Serverless"],
-  currentFocus: "Building scalable full-stack solutions",
+  architecture: [
+    "Microservices", "Event Driven", "MVC", "Serverless"
+  ],
+  currentFocus: "Building scalable full-stack applications 🚀",
   funFact: "I debug faster when music is playing 🎧"
 };
