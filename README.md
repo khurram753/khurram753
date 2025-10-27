@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  🔭 Currently working on <b>Full Stack Web, AI & Blockchain projects</b><br>
+  🔭 Currently working on <b>Full Stack Web projects</b><br>
   🌱 Learning <b>Microservices, Web3 tools, and AI integrations</b><br>
   💬 Ask me about <b>Laravel, Node.js, Vue, React, Next.js, Web3, and API Architecture</b><br>
   🎯 Goal: To build <b>scalable and efficient digital ecosystems</b><br>
