@@ -27,7 +27,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="80" height="80">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80" height="80">
 </p>
 
 <p align="center">
