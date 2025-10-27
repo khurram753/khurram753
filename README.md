@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00C4FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;MERN+%7C+Laravel+%7C+Next.js;Blockchain+%26+Web3+Enthusiast;AI+%26+Automation+Lover;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00C4FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;MERN+%7C+Laravel+%7C+Next.js;Open+Source+Contributor" />
 </p>
 
 ---
